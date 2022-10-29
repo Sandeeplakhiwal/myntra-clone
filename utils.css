@@ -1,0 +1,48 @@
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.upper-case{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bolder;
+}
+
+.max-width{
+    max-width: 1260px;
+    /* height: max-content; */
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+}
+
+.imgheightwidth{
+    width: 157px;
+    height: 280px;
+}
+
+.text-banner-title {
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1em;
+    margin: 50px 0 10px 30px;
+    max-height: 5em;
+    font-weight: 500;
+}

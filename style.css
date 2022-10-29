@@ -1,0 +1,37 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 17px;
+    padding: 14px 17px;
+  }
+
+/* .flex-container container2{
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}  */
+
+#logo{
+    height: 60px;
+    width: 130px;
+}
+
+header{
+    background-color: skyblue;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+}
+button{
+    height: 30px;
+    width: 40px;
+    background-color: rgb(109, 47, 255);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
